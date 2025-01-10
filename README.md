@@ -7,3 +7,6 @@ Predicting Geomagnetic Storms (GSTs) using NASA data
 ## How I did my work
 1. Follow the instructions on the Jupyter Notebook starter file
 2. I checked my answer multiple times against different resources (Claude AI, Github Copilot Pro), and they should be correct. However, the total count I got are slightly less than what is shown on the provided answer from the screenshot. There could be some data differences between when the sample file was run vs now. This one is tough because depending on how you filter the null values the result may be different than the provided answer. The total count I have in the CSV file is 48. The total count from the guide is 67. Mine are true distinct rows. Hopefully this is an acceptable approach.
+
+## Output Examples
+See attached file retrieve_data.html (https://htmlpreview.github.io/?https://github.com/AIBC2024/data-sourcing-challenge/blob/main/retrieve_data.html)

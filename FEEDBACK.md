@@ -1,0 +1,2 @@
+Hi Ingrid, thank you for your submission. Great job. You have shown a good understanding of the content material and have completed all of the submission requirements successfully. This included making the requests, preprocessing and cleaning the data, building the various functions, merging the data and saving it. So, nicely done with that. You have also included a README file, which provided good insights into your process. Overall, excellent work. Keep it up and all the best. Your Central Grading Team -YM.
+Central Grader , Jan 11 at 10:52pm
